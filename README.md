@@ -9,5 +9,7 @@
   파이썬과 인공지능 기초수학</a></li>
   
 ## 3주차 과제
+<li><a href="https://github.com/LeeSangMin96/Assignment/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb">
+  학습률 최적화, 군집분석구현, Cost Function 구현</a></li>
 
 ## 4주차 과제
